@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UngDung1", "UngDung1\UngDung1.csproj", "{4C6971FE-2C02-4179-A1EE-AC3D4D19CF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungBien", "SuDungBien\SuDungBien.csproj", "{9C7B94D8-0684-4535-B1CC-1E2EAC654040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6971FE-2C02-4179-A1EE-AC3D4D19CF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6971FE-2C02-4179-A1EE-AC3D4D19CF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6971FE-2C02-4179-A1EE-AC3D4D19CF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6971FE-2C02-4179-A1EE-AC3D4D19CF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7B94D8-0684-4535-B1CC-1E2EAC654040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7B94D8-0684-4535-B1CC-1E2EAC654040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7B94D8-0684-4535-B1CC-1E2EAC654040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7B94D8-0684-4535-B1CC-1E2EAC654040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8493D90A-B637-42F9-83FD-A2B009DB10B0}
+	EndGlobalSection
+EndGlobal
