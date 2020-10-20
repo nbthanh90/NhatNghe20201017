@@ -1,0 +1,6 @@
+C:\Users\NN\Desktop\UngDung1\SuDungRandom\bin\Debug\SuDungRandom.exe.config
+C:\Users\NN\Desktop\UngDung1\SuDungRandom\bin\Debug\SuDungRandom.exe
+C:\Users\NN\Desktop\UngDung1\SuDungRandom\bin\Debug\SuDungRandom.pdb
+C:\Users\NN\Desktop\UngDung1\SuDungRandom\obj\Debug\SuDungRandom.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\UngDung1\SuDungRandom\obj\Debug\SuDungRandom.exe
+C:\Users\NN\Desktop\UngDung1\SuDungRandom\obj\Debug\SuDungRandom.pdb

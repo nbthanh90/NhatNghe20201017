@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\UngDung1\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.exe.config
+C:\Users\NN\Desktop\UngDung1\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.exe
+C:\Users\NN\Desktop\UngDung1\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.pdb
+C:\Users\NN\Desktop\UngDung1\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\UngDung1\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\UngDung1\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.exe
+C:\Users\NN\Desktop\UngDung1\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.pdb
